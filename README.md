@@ -1,0 +1,2 @@
+# Pyramid
+code print Pyramid.
