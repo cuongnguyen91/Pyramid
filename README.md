@@ -1,2 +1,2 @@
 # Pyramid
-code print Pyramid with "|" and "_".
+code print Pyramid with "*".
